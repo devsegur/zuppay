@@ -1,7 +1,9 @@
 [submodule "rest"]
 	path = zuppay-rest
 	url = https://github.com/efres/zuppay-rest.git
+	branch = master
 
 [submodule "processor"]
 	path = zuppay-processor
 	url = https://github.com/efres/zuppay-processor.git
+	branch = master
